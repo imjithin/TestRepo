@@ -47,7 +47,7 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <TextBlock Text="Space" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" />
+            <TextBlock Text="new Space" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" />
         </Grid>
 
         <!--Uncomment to see an alignment grid to help ensure your controls are
